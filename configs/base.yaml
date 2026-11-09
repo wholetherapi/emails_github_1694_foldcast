@@ -1,0 +1,7 @@
+seed: 7
+hidden_dim: 256
+num_layers: 6
+flow_steps: 32
+batch_size: 4
+learning_rate: 0.0002
+epochs: 120

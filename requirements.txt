@@ -1,0 +1,4 @@
+torch>=2.2
+numpy>=1.26
+biopython>=1.83
+pyyaml>=6.0
